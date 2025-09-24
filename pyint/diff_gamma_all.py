@@ -1,10 +1,4 @@
 #! /usr/bin/env python
-#################################################################
-###  This program is part of PyINT  v2.1                      ### 
-###  Copy Right (c): 2017-2019, Yunmeng Cao                   ###  
-###  Author: Yunmeng Cao                                      ###                                                          
-###  Contact : ymcmrs@gmail.com                               ###  
-#################################################################
 
 import numpy as np
 import os
